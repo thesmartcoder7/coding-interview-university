@@ -55,7 +55,7 @@
 </details>
 
 <div align="center">
-	<hr />
+ <hr />
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
@@ -73,9 +73,9 @@
                 </p>
             </div>
             <div>
-                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time 
-                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve 
-                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident 
+                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time
+                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve
+                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident
                 as you walk into that interview!</sup>
             </div>
         </a>
@@ -102,7 +102,7 @@ them will not be the same, as each has its own competencies. These companies req
 software development/engineering roles.
 
 There is a lot to learn in a university Computer Science program, but only knowing about 75% is good enough for an interview, so that's what I cover here.
-For a complete CS self-taught program, the resources for my study plan have been included in Kamran Ahmed's Computer Science Roadmap: https://roadmap.sh/computer-science
+For a complete CS self-taught program, the resources for my study plan have been included in Kamran Ahmed's Computer Science Roadmap: <https://roadmap.sh/computer-science>
 
 ---
 
@@ -379,7 +379,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
   - by Goodrich, Tamassia, Goldwasser
   - I loved this book. It covered everything and more.
   - Pythonic code
-  - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
+  - my glowing book report: <https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/>
 
 ### Java
 
@@ -417,7 +417,7 @@ I bought both of these. They gave me plenty of practice.
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
   - answers in Java
 
-### If you have tons of extra time:
+### If you have tons of extra time
 
 Choose one:
 
@@ -467,7 +467,7 @@ An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which 
 It uses a repetition system to help you remember. It's user-friendly, available on all platforms and has a cloud sync system.
 It costs $25 on iOS but is free on other platforms.
 
-My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
+My flashcard database in Anki format: <https://ankiweb.net/shared/info/25173560> (thanks [@xiewenya](https://github.com/xiewenya)).
 
 Some students have mentioned formatting issues with white space that can be fixed by doing the following: open deck, edit card, click cards, select the "styling" radio button, add the member "white-space: pre;" to the card class.
 
@@ -756,6 +756,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - binary search using recursion
 
 - ### Bitwise operations
+
   - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
   - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
     - [ ] [words](<https://en.wikipedia.org/wiki/Word_(computer_architecture)>)
@@ -835,6 +836,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
+
   - visualized as a tree, but is usually linear in storage (array, linked list)
   - [ ] [Heap](<https://en.wikipedia.org/wiki/Heap_(data_structure)>)
   - [ ] [Introduction (video)](https://www.coursera.org/lecture/data-structures/introduction-2OpTs)
@@ -1246,6 +1248,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - The first half is enough.
 
 - ### Networking
+
   - **If you have networking experience or want to be a reliability engineer or operations engineer, expect questions**
   - Otherwise, this is just good to know
   - [ ] [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
@@ -1879,6 +1882,7 @@ You're never really done.
   - [Divide & Conquer: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
 - ### Discrete math
+
   - [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
   - [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
   - [Discrete Mathematics By IIT Ropar NPTEL](https://nptel.ac.in/courses/106/106/106106183/)
