@@ -1,4 +1,4 @@
-## Programming Language Resources
+# Programming Language Resources
 
 - C
   - [ANSI C Cheat Sheet](<https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf>)
@@ -17,7 +17,7 @@
   - [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/Cpp_reference.pdf)
   - [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
   - [basics](https://www.tutorialspoint.com/cplusplus/cpp_basic_syntax.htm)
-  - [pointers](https://www.cpdoes the default vpc in aws have an impact in billing?://www.cprogramming.com/tutorial/lesson12.html)
+  - [pointers](<https://www.cpdoes> the default vpc in aws have an impact in billing?://www.cprogramming.com/tutorial/lesson12.html)
   - [functions](https://www.cprogramming.com/tutorial/lesson4.html)
   - [references](https://www.geeksforgeeks.org/references-in-c/)
   - [templates](https://www.cprogramming.com/tutorial/templates.html)
